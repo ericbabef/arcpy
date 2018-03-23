@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<data>
+	<layer bdd="agglo" name="agglo.sig.test_update_field">
+		<nomcom>nom_com</nomcom>
+		<codeinsee>code_com</codeinsee>
+	</layer>
+	<layer bdd="agglo" name="agglo.sig.test_update_field2">
+		<nomcom>nom_com_test</nomcom>
+		<codeinsee>code_com_test</codeinsee>
+	</layer>
+	<layer bdd="agglo" name="agglo.sig.test_update_poly">
+		<nomcom>nom</nomcom>
+		<codeinsee>code</codeinsee>
+	</layer>
+	<layer bdd="ref" name="ref.sig.test_update">
+		<nomcom>commune</nomcom>
+		<codeinsee>insee</codeinsee>
+	</layer>
+</data>
